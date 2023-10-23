@@ -1,0 +1,8 @@
+header{
+    background-color: rgb(223, 161, 161);
+    display: grid;
+    grid-template-columns: 80% 20%;
+    margin: 0 auto;
+    width: 1000px;
+    padding: 20px;
+}
